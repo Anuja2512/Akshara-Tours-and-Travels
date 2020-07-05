@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>contact us</title>
+</head>
+<body background="contact us.jpg">
+<h1><font color="red">AKSHARA TOURS AND TRAVELS</font color></h1>
+<h3>Come and discover the world</h3>
+<hr color="red" size=5>
+<hr color="red" size=5>
+<br>
+<p>Toll Free:-<font color="blue"> 1800 22 7979 (For Indian Nationals)</font color></p>
+<br>
+<p>WhatsApp:-<font color="blue">  +91887997 2220 (For Foreign Nationals)</font color></p>
+<br>
+<p>E-mail:-<a href="www.google.com">aksharatravels@gmail.com</a></p>
+<br>
+<p>Info-center numbers:-<font color="blue">+91 22 2101 7979, +91 22 2101 6969</font color></p>
+<br>
+<p>Office Timings:-Monday - Saturday 10am to 7pm<b>(Sunday Closed)</b></p>
+<br>
+<Address>Deccan Elite, Good Luck Chowk, 
+Bhandarkar Road, Shivajinagar, 
+Pune – 411004</Address>
+<h2>For more details please contact:-</h2><br>
+<h3><font color="brown">Sales Incharge : Sandeep Joshi
+(+91 887 997 2300)</h3></font color>
+</body>
+</html>
