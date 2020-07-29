@@ -1,8 +1,0 @@
-<html>
-<head>
-<title>main content</title>
-</head>
-<body bgcolor="yellow">
-<center><Img src="title page.jpg" style="width:700 px;height:500px;border:2px solid black"></center>
-</body>
-</html>
